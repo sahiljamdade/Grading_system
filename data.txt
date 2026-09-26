@@ -1,0 +1,41 @@
+Q1 Which planet in our solar system is known as the Red Planet ?
+- Venus , a
+z - Mars , b
+- Jupiter , c
+- Saturn , d
+
+Q2 What is the hardest natural substance found on Earth ?
+- Gold , a
+- Iron , b
+z - Diamond , c
+- Graphite , d
+
+Q3 Which is the largest ocean on Earth ?
+- Atlantic Ocean , a
+- Indian Ocean , b
+- Arctic Ocean , c
+z - Pacific Ocean , d
+
+Q4 What is the chemical symbol for water ?
+- CO2 , a
+z - H20 , b
+- NaCl , c
+- O2 , d
+
+Q5 Which country is the largest producer of coffee in the world ?
+- Colombia , a
+- India , b
+z - Brazil , c
+- Vietnam , d
+
+Q6 Which continent is the largest by land area ?
+- Africa , a
+- North America , b
+- Europe , c
+z - Asia , d
+
+Q7 Who discovered penicillin in 1928 ?
+z - Alexander Fleming , a
+- Louis Pasteur , b
+- Gregor Mendel , c
+- Marie Curie , d
