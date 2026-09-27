@@ -172,5 +172,23 @@ INSERT INTO student([rollno],[question],[ans]) VALUES('83','Q8','d');
 INSERT INTO student([rollno],[question],[ans]) VALUES('83','Q9','d');
 INSERT INTO student([rollno],[question],[ans]) VALUES('83','Q10','a');
 
+
+/*
+    INSERT INTO op_table(rollno, question, ans, result)
+    SELECT
+        NEW.rollno,
+        NEW.question,
+        NEW.ans,
+        CASE
+            WHEN NEW.ans = answer_table.answer THEN '1'
+            ELSE '0'
+        END
+    FROM answer_table
+    WHERE answer_table.que_no = NEW.question;
+
+*/
+
+
+
 END TRANSACTION;
 
